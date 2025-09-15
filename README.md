@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 | **Tools** | ![VSCode Badge](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Neovim Badge](https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![Git Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![REST Badge](https://img.shields.io/badge/rest-6DB33F?style=for-the-badge) ![Linux Badge](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Figma Badge](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![NodeJS Badge](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Jupyter Badge](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Docker Badge](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 ## 🔗 My Links
-[![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Celaena24/) 
+[![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stella-dey/) 
 [![Static Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Celaena24)
 [![Static Badge](https://img.shields.io/badge/my_email-white?style=for-the-badge&logo=gmail)
 ](mailto:deystella24@gmail.com)
